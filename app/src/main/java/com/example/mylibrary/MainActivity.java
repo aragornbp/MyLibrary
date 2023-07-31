@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Testando git
+    //Testando git android
 
     private Button btnAllBooks, btnAlreadyRead, btnWantToRead, btnCurrentyReading, btnFavorite, btnAbout;
 
